@@ -1,4 +1,6 @@
 baseURL: "https://fartleako.github.io/"
+relativeURLs: true
+uglyURLs: true
 languageCode: en-us
 title: CrossForge
 theme: "hugo-theme-learn"

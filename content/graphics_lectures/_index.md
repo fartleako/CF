@@ -8,7 +8,7 @@ chapter: true
 
 # Graphical Lectures
 
-**ToDo**: opening paragraph
+More often than not we need mathematics to understand the foundation of a computer graphics program. Here we want to some mathematical basics and how to use them.
 
 ### [Moving Objects](/graphics_lectures/moving_objects/)
 
